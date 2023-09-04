@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Durai",
+      "lastName": "S",
+      "email": "Ds@gmail.com",
+      "dob": "2023-08-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "DS",
+      "experience": 5,
+      "package": 5,
+      "id": 3
+    },
+    {
+      "firstName": "Durai",
+      "lastName": "Pandi",
+      "email": "Ds@gmail.com",
+      "dob": "2023-08-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "DS",
+      "experience": 5,
+      "package": 5,
+      "id": 4
+    },
+    {
+      "firstName": "Durai",
+      "lastName": "Sing",
+      "email": "Ds@gmail.com",
+      "dob": "2023-08-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "DS",
+      "experience": 5,
+      "package": 5,
+      "id": 5
+    }
+  ]
+}
